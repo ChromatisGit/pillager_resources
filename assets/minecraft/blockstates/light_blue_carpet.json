@@ -1,0 +1,8 @@
+
+
+{
+    "variants": {
+        "": [ { "model": "block/carpet2","y": 180, "uvlock": true}
+           ]
+    }
+}
