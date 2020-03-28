@@ -1,0 +1,19 @@
+
+
+{
+    "variants": {
+        "": [ { "model": "block/alternate_jungle/jungle_planks",   "weight": 4  },
+              { "model": "block/alternate_jungle/jungle_planks02",  "weight": 1  },
+              { "model": "block/alternate_jungle/jungle_planks03",  "weight": 1  },
+              { "model": "block/alternate_jungle/jungle_planks04",  "weight": 1  },
+              { "model": "block/alternate_jungle/jungle_planks05",  "weight": 1  },
+              { "model": "block/alternate_jungle/jungle_planks06",  "weight": 1  },
+              { "model": "block/malternate_jungle/jungle_planks",   "weight": 4  },
+              { "model": "block/malternate_jungle/jungle_planks02",  "weight": 1  },
+              { "model": "block/malternate_jungle/jungle_planks03",  "weight": 1  },
+              { "model": "block/malternate_jungle/jungle_planks04",  "weight": 1  },
+              { "model": "block/malternate_jungle/jungle_planks05",  "weight": 1  },
+              { "model": "block/malternate_jungle/jungle_planks06",  "weight": 1  }
+           ]
+    }
+}
