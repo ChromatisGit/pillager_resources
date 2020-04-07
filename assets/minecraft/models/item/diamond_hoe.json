@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_hoe"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "props/evoker_statue"},
+		{ "predicate": { "custom_model_data": 2 }, "model": "props/pillager_statue"},
+		{ "predicate": { "custom_model_data": 3 }, "model": "props/villager_skeleton"},
+    { "predicate": { "custom_model_data": 4 }, "model": "props/vindicator_statue"}
+
+	]
+}
